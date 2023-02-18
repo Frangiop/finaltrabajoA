@@ -1,0 +1,68 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "name": "Máquina de escribir",
+      "price": 109.99,
+      "description": "Bonita máquina de escribir antigua.",
+      "stars": 4.2,
+      "image": "https://i.ibb.co/84zfbz0/maquina.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lapiceros de colores",
+      "price": 1.99,
+      "description": "Estupendos bolígrafos de colores.",
+      "stars": 1,
+      "image": "https://i.ibb.co/s5m7HKt/lapiceros.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pantalón",
+      "price": 49.99,
+      "description": "Pantalón de moto para evitar heridas.",
+      "stars": 4,
+      "image": "https://i.ibb.co/6nnVkNY/pantalon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cuaderno de colores",
+      "price": 7.25,
+      "description": "Excelente cuaderno para que apuntes tus clases.",
+      "stars": 3.5,
+      "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jarabe marca blanca",
+      "price": 12.5,
+      "description": "No cura el COVID, pero está muy rico.",
+      "stars": 1,
+      "image": "https://i.ibb.co/mhgHWnf/jarabe.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maceta de diseño",
+      "price": 9.99,
+      "description": "Maceta de diseño a precio económico.",
+      "stars": 5,
+      "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gato Persa",
+      "price": 100,
+      "description": "No sé si es legal vender animales online...",
+      "stars": 3,
+      "image": "https://i.ibb.co/1zPPBjx/gato.jpg"
+    },
+    {
+      "name": "frarf",
+      "description": "caja ",
+      "price": "45",
+      "stars": "4",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAPoA+gMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAQIDBAUG/9oACAEBAAAAAPpQAAAAAAAAAAAAAAAAAAFOO/TcAABTLHboMuOE79FgADLLGiG/ZhyJJno3kArlllCEFLpJJX6NgpjnREIRSlV7WsJJadOhhyWRCuedUyvaFrkkx17jLinPLKEpkveIrOtknR1BHFx86ZJJXsiK103mde0MOGFeRMgXtKKxVv194z4cUzMcmZMC90oiL7dfaM/MhMynk5QL2mWumkI9HYV83OZTM8/n1E2nbo3RCIn1bB5/PMzMzn5WZfs67xEIiIjf0wcfJMpmXmOzohEQiIiEeh1g+f11mZcXF6u6IhEQqjo69wPB8r1emOHi1vj7dohERDPm+h0APG8vHo5L9PRPI9lERDn48ur6YBXPyuOmc7bXc/F2+lERx8jW/T7oCMfJ5LTN7zOPNx+1fi5tNL2nf2wCOTxq3vNpnPLnpOul5K9HuABzeNnpa0zStIm0orS3qeiADLyOXW8zRCFa139HukABXzOC97URFax2ej0gAAcXlTpSK0v6HfoAAAMfHpSvT6HZIAAAFfLj0NwAAAAAAAAAAAAAAAAAB//EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oACgICEAMQAAAAAAAAAAAADGq1kAAjG8azrvxxvj0OmO3OwM3G8axolVCkDrz686xrh2llUhAssNT0cbOe+HaVQIANY9PDU49OHdDRYCASz1+ew4dePUspoQklDpj08A49eHWw0IglF3j08LDG+PaSs71jFJTU7cuvMDG/N6Kyjcuc2ll78evIA4duPaErUM1bPT594ADl18/aFpNzry6c7AADG/N3l6468t4AAADNNQAAAAAAAP/EADUQAAICAQEHAwEGBAcAAAAAAAECAAMRMQQSICEyQVEQMGEiBRNAQnFyJENggSMzUpGhwdH/2gAIAQEAAT8A/pXI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",
+      "id": 9
+    }
+  ]
+}
